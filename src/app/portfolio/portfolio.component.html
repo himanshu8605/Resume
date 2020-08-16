@@ -1,0 +1,21 @@
+<div class="portfolio-bg">
+  <div class="portfolio-container">
+    <div class="portfolio-header" #portfolioHeader>
+      <app-dp-logo
+        [height]="dpLogoStyle.height"
+        [borderWidth]="dpLogoStyle.borderWidth">
+      </app-dp-logo>
+     
+    </div>
+    <div class="portfolio-area" #portfolioArea>
+      <div class="back-icon" (click)="onBackBtnClick()">
+        <app-back-icon></app-back-icon>
+      </div>
+      <div class="portfolio-selection" #portfolioSelectionArea [ngClass]="{'portfolio-selection__fixed': setFixedPostion }">
+        <h1>PORTFOLIO</h1>
+      
+      </div>
+      <app-projects></app-projects>
+    </div>
+  </div>
+</div>
