@@ -23,7 +23,7 @@ export class ContactComponent implements OnInit {
       },
       {
         name: 'LinkedIn',
-        url: 'www.linkedin.com/in/himanshu8605',
+        url: 'https://www.linkedin.com/in/himanshu8605',
         iconUrl: './assets/icons/linkedin.svg'
       },    
         {

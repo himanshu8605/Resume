@@ -10,7 +10,7 @@ export const PanelTestRecord: IProject = {
     '',
   features: ['Panel Statistics','Dispatch Statistics','Panel History','Centralized Testing Report','Software Statistics'],
   tags: ['node.js'],
-  techStuff: ['Ionic', 'SqlLite','C#'],
+  techStuff: ['Angular', 'C#','SqlServer'],
   additionalData: [
     {
       title: 'About',
