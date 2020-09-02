@@ -6,7 +6,7 @@ This is my portfolio website (SPA), designed with Adobe XD & developed with Angu
 
 ## URL
 
-* [https://Himanshu.github.io/ ](https://Himanshu.github.io/) :cupid::sparkling_heart:
+* [https://himanshu8605.github.io/Resume/#!/ ](https://himanshu8605.github.io/Resume/#!/) 
 
 ## Tech Stuff
 - Angular 
